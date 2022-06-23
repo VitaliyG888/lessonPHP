@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {
+      "kernel\\": "vendor/kernel",
+      "appTelegram\\": "appTelegram"
+    }
+  }
+}
